@@ -1,6 +1,6 @@
 Steps to follow:
 
-1. Initialize a Next.js Project
+1. Initialize a Next.js Project 
 2. Add Authentication via NextAuth (Google Provider)
 3. Create Schema for User, Space, ActiveStream, StreamHistory
 4. Create endpoints that lets<br>
