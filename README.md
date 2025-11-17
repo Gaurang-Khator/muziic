@@ -2,7 +2,7 @@ Steps to follow:
 
 1. Initialize a Next.js Project ✅
 2. Add Authentication via NextAuth (Google Provider) ✅
-3. Create Schema for User, Space, ActiveStream, StreamHistory
+3. Create Schema for User, Upvotes, ActiveStream, Space
 4. Create endpoints that lets<br>
     a. a user create a space <br>
     b. end users add streams <br>
